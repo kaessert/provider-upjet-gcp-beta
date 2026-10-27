@@ -2,6 +2,8 @@ module github.com/upbound/provider-gcp-beta
 
 go 1.21
 
+toolchain go1.26.10
+
 require (
 	dario.cat/mergo v1.0.0
 	github.com/alecthomas/kingpin/v2 v2.4.0
