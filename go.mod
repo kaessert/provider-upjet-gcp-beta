@@ -4,6 +4,8 @@ tool golang.org/x/tools/cmd/goimports
 
 go 1.24.10
 
+toolchain go1.26.10
+
 require (
 	dario.cat/mergo v1.0.0
 	github.com/alecthomas/kingpin/v2 v2.4.0
